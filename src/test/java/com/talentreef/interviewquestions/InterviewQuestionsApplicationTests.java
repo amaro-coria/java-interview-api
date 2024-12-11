@@ -10,6 +10,7 @@ class InterviewQuestionsApplicationTests {
 
   @Test
   void contextLoads() {
+    // This test is empty because it is only testing the context load
   }
 
 }
